@@ -1,6 +1,6 @@
 # hello-vue3-webpack
 
-minimal reproduction: [vue-compat] UI Components Vant: Fail to resolve this.$toast.loading
+[vue-compat] globalProperty with function as value is always bound to instance proxy：https://github.com/vuejs/vue-next/issues/4403
 ## Project setup
 ```
 npm install
